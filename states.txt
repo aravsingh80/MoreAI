@@ -1,0 +1,36 @@
+Georgia  North Carolina,South Carolina,Tennessee,Alabama,Florida	
+Idaho  Utah,Washington,Wyoming,Montana,Nevada,Oregon
+Illinois  Kentucky,Missouri,Wisconsin,Indiana,Iowa,Michigan
+Indiana  Michigan,Ohio,Illinois,Kentucky
+Iowa  Nebraska,South Dakota,Wisconsin,Illinois,Minnesota,Missouri
+Kansas  Nebraska,Oklahoma,Colorado,Missouri
+Kentucky  Tennessee,Virginia,West Virginia,Illinois,Indiana,Missouri,Ohio
+Louisiana  Texas,Arkansas,Mississippi
+Maryland  Virginia,West Virginia,Delaware,Pennsylvania	
+Massachusetts  New York,Rhode Island,Vermont,Connecticut,New Hampshire
+Michigan  Ohio,Wisconsin,Illinois,Indiana,Minnesota
+Minnesota  North Dakota,South Dakota,Wisconsin,Iowa,Michigan
+Mississippi  Louisiana,Tennessee,Alabama,Arkansas
+Missouri  Nebraska,Oklahoma,Tennessee,Arkansas,Illinois,Iowa,Kansas,Kentucky	Montana  South Dakota,Wyoming,Idaho,North Dakota
+Nebraska  Missouri,South Dakota,Wyoming,Colorado,Iowa,Kansas
+Nevada  Idaho,Oregon,Utah,Arizona,California
+New Hampshire  Vermont,Maine,Massachusetts
+New Jersey  Pennsylvania,Delaware,New York
+New Mexico  Oklahoma,Texas,Utah,Arizona,Colorado
+North Carolina  Tennessee,Virginia,Georgia,South Carolina	
+North Dakota  South Dakota,Minnesota,Montana
+Ohio  Michigan,Pennsylvania,West Virginia,Indiana,Kentucky
+Oklahoma  Missouri,New Mexico,Texas,Arkansas,Colorado,Kansas
+Oregon  Nevada,Washington,California,Idaho
+Pennsylvania  New York,Ohio,West Virginia,Delaware,Maryland,New Jersey
+Rhode Island  Massachusetts,New York,Connecticut
+South Carolina  North Carolina,Georgia
+South Dakota  Nebraska,North Dakota,Wyoming,Iowa,Minnesota,Montana
+Tennessee  Mississippi,Missouri,North Carolina,Virginia,Alabama,Arkansas,Georgia,Kentucky	Texas	New Mexico,Oklahoma,Arkansas,Louisiana	
+Utah  Nevada,New Mexico,Wyoming,Arizona,Colorado,Idaho
+Vermont  New Hampshire,New York,Massachusetts	
+Virginia  North Carolina,Tennessee,West Virginia,Kentucky,Maryland
+Washington  Oregon,Idaho
+West Virginia  Pennsylvania,Virginia,Kentucky,Maryland,Ohio
+Wisconsin  Michigan,Minnesota,Illinois,Iowa	
+Wyoming  Nebraska,South Dakota,Utah,Colorado,Idaho,Montana
